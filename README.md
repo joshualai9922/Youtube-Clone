@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The YouTube Clone Project is designed to provide a hands-on experience in developing a React-based web application. It mimics the core features of the YouTube platform, such as viewing videos, searching for content, and managing user accounts. By working on this project, you can gain valuable insights into building modern web applications using React, making API requests, and handling user authentication.
+The YouTube Clone Project mimics the core features of the YouTube platform, such as viewing videos, searching for content, and managing user accounts. By working on this project, I gained valuable insights into building modern web applications using React & making API requests.
 
 ## Features
 
